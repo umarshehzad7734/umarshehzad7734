@@ -257,14 +257,6 @@ OPEN_TO     = ["AI/ML Engineer", "NLP Engineer", "CV Engineer", "Research Engine
 
 ---
 
-## `$ npm run trophies`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umarshehzad7734&theme=onestar&no-frame=false&no-bg=true&margin-w=6&column=7&title_color=00D4FF&bg_color=0A0E1A&border_color=00D4FF" />
-</p>
-
----
-
 ## `$ git activity --graph`
 
 <p align="center">
